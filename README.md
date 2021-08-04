@@ -1,4 +1,4 @@
-# Kaggle-Project-Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection (Kaggle Project)
 https://www.kaggle.com/mlg-ulb/creditcardfraud 
 
 #  Objective:
