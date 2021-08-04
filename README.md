@@ -17,7 +17,7 @@ This highly unbalanced Kaggle dataset contains:
 # Summary
 -	Implemented an end-to-end Data Science pipeline by considering different steps, namely Exploratory Data Analytics (EDA), model building, and evaluation.
 -	Used and compared different techniques such as Undersampling, Oversampling, Hybrid Oversampling and Undersampling using SMOTEENN, and a custom resampling technique to handle class imbalance.
--	Compared perdormance of different classifiers such as LR, RF, Extra Tree, Gradient Bossting, Light GBM, and XGBoost.
+-	Compared performance of different classifiers such as LR, RF, Extra Tree, Gradient Bossting, Light GBM, and XGBoost.
 -	Obtained ROC-AUC score of 0.93 Percision at Recall Threshold using the prposed pipeline.
 
 •	SKILLS & Tools:  ML, Feature Engineering, Feature Reduction, Data Augmentation, Hyperparameter Tuning, Python, Matplotlib, Seaborn. 
